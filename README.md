@@ -6,4 +6,3 @@ Code for "HumanMAC: Masked Motion Completion for Human Motion Prediction".
 
 source:https://github.com/LinghaoChan/HumanMAC
 
-演示视频已上传：video_wwj.mp4
